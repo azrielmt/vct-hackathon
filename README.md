@@ -1,8 +1,6 @@
-# vct-hackathon
+## Create a LLM-powered digital assistant with Amazon Bedrock to build teams and answer questions about VALORANT Esports players.
 
-## Create a LLM-powered digital assistant with Amazon Bedrock to build teams and answer questions about VALORANT Esports players
-
-# Welcome to the VCT Hackathon: Esports Manager Challenge, powered by AWS and Riot Games!
+### Welcome to the VCT Hackathon: Esports Manager Challenge, powered by AWS and Riot Games!
 You are hired as a data scientist on a new VALORANT Esports team and have been tasked by the team’s general manager to support the scouting and recruitment process. Create a LLM-powered digital assistant to build teams and answer various questions about VALORANT Esports players.
 
 VALORANT is a tactical FPS by Riot Games, combining precise gunplay with unique agent abilities in a strategic 5v5 format. The VALORANT Champions Tour (VCT) is the official esports league for the game, featuring regional qualifiers, leagues, and culminating in a global championship.
